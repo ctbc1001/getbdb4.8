@@ -1,9 +1,3 @@
 Dependencies
 
-sudo apt-get install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3 libevent-dev libboost-dev sudo apt libsqlite3-dev libminiupnpc-dev libnatpmp-dev libzmq3-dev systemtap-sdt-dev
-
-sudo apt-get install qtbase5-dev qttools5-dev qttools5-dev-tools
-
-sudo apt install qtwayland5
-
-sudo apt-get install libqrencode-dev
+sudo apt-get install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3 libevent-dev libboost-dev sudo apt libsqlite3-dev libminiupnpc-dev libnatpmp-dev libzmq3-dev systemtap-sdt-dev qtbase5-dev qttools5-dev qttools5-dev-tool qtwayland5 libqrencode-dev -y
